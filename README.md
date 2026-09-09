@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/profile-banner.png" alt="Mădălin Marius Stan — developer profile banner" width="100%" />
+</p>
+
 # Hi, I'm Mădălin 👋
 
 I'm a developer focused on building **simple, thoughtful and useful web experiences**.
