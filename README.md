@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Mădălin 👋
 
-<!--
-**madalinmariusstan/madalinmariusstan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a developer focused on building **simple, thoughtful and useful web experiences**.
 
-Here are some ideas to get you started:
+I enjoy creating lightweight web applications, experimenting with new ideas, and turning them into clean, maintainable products.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Currently building
+
+Personal web applications and open-source projects, with a focus on simplicity, usability and maintainable architecture.
+
+### Building with
+
+`PHP` · `JavaScript` · `React` · `HTML` · `CSS` · `SQLite` · `MySQL`
+
+### Find me
+
+🌐 [madalinmariusstan.dev](https://madalinmariusstan.dev)
+
+---
+
+*Build simple. Make it useful.*
