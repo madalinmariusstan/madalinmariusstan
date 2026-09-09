@@ -16,6 +16,12 @@ Personal web applications and open-source projects, with a focus on simplicity, 
 
 `PHP` · `JavaScript` · `React` · `HTML` · `CSS` · `SQLite` · `MySQL`
 
+### Support my work ☕
+
+If you enjoy my open-source projects, you can support their continued development. Contributions are entirely voluntary and don't provide access to additional products or services.
+
+[Support on Ko-fi →](https://ko-fi.com/madalinmariusstan)
+
 ### Find me
 
 🌐 [madalinmariusstan.dev](https://madalinmariusstan.dev)
